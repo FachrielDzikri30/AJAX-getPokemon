@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#top-wrapper{
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    background-color: #e7c859;
+    font-size: 20px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 15px;
+    margin: 20px auto 30px auto;
+} 
+
+button:hover {
+    cursor: pointer;
+    background-color: #a2851d;
+}
+
+#result {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+    width: 85%;
+}
+
+#pokeDetail {
+    width: 22%;
+    margin: 0 20px 20px 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px 0px;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+img {
+    width: 230px;
+    height: 230px;
+}
+
+.grass {
+    background-color: #8dd694;
+    border: #5dad65 solid 3px;
+}
+
+.water {
+    background-color: #8dc6e6;
+    border: #6f9eca solid 3px;
+}
+
+.fire {
+    background-color: #e69d8d;
+    border: #c67d6d solid 3px;
+}
+
+.bug {
+    background-color: #bddd7a;
+    border: #a2c170 solid 3px;
+}
+
+.normal {
+    background-color: #b1b1b1;
+    border: #959595 solid 3px;
+}
+
+.flying {
+    background-color: #c9adec;
+    border: #a485cc solid 3px;
+}
+
+.rock {
+    background-color: #b99d72;
+    border: #957d59 solid 3px;
+}
+
+.ground {
+    background-color: #efbeb5;
+    border: #d0a068 solid 3px;
+}
+
+.psychic {
+    background-color: #d053bc;
+    border: #a44094 solid 3px;
+}
+
+.ghost {
+    background-color: #835e94;
+    border: #6b4c79 solid 3px;
+}
+
+.dark {
+    background-color: #686868;
+    border: #434343 solid 3px;
+}
+
+.steel {
+    background-color: #598fa3;
+    border: #517c8b solid 3px;
+}
+
+.poison {
+    background-color: #a55db1;
+    border: #ba4a95 solid 3px;
+}
+
+.electric {
+    background-color: #e7c859;
+    border: #d0b34a solid 3px;
+}
+
+.fairy {
+    background-color: #eea1e2;
+    border: #c77fbc solid 3px;
+}
+
+.fighting {
+    background-color: #e07f60;
+    border: #b1664f solid 3px;
+}
+
+.dragon{
+    background-color: #8859d5;
+    border: #724cae solid 3px;
+}
+
+.ice {
+    background-color: #71d8de;
+    border: #65c1c6 solid 3px;
+}
